@@ -62,7 +62,6 @@ CHECK:
 			break CHECK
 		}
 	}
-
 	if !passed {
 		log.DefaultContextLogger.Warnf(ctx, "[streamfilter][auth]request does not matched the pass condition")
 		f.handler.SendHijackReply(403, headers)

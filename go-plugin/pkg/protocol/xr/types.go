@@ -28,7 +28,7 @@ const (
 	startHeader          = "<Header>"
 	endHeader            = "</Header>"
 	channelIdKey         = "ChannelId"
-	requestIdKey         = "RequestId" // inject biz request/response id
+	requestIdKey         = "SteamId"
 	externalReferenceKey = "ExternalReference"
 	serviceCodeKey       = "ServiceCode"
 

@@ -1,9 +1,9 @@
 文档修订历史
 
-| 版本号 | 作者 | 备注                                                                             | 修订日期  |
-| ------ | ---- |--------------------------------------------------------------------------------| --------- |
-| 0.1    | [诣极](https://github.com/zonghaishang) | 初始版本                                                                           | 2022.1.12 |
-| 0.2 | [诣极](https://github.com/zonghaishang) | 新增[扩展点api介绍](https://github.com/mosn/extensions/tree/master/go-plugin/doc/api) | 2022.4.6 |
+| 版本号 | 作者 | 备注          | 修订日期  |
+| ------ | ---- |-------------| --------- |
+| 0.1    | [诣极](https://github.com/zonghaishang) | 初始版本        | 2022.1.12 |
+| 0.2 | [诣极](https://github.com/zonghaishang) | 新增[api介绍](https://github.com/mosn/extensions/tree/master/go-plugin/doc/api) | 2022.4.6 |
 
 ## [1. 插件基础篇](https://github.com/mosn/extensions/blob/master/go-plugin/doc/1.plugin-prepare.md#1-%E6%8F%92%E4%BB%B6%E5%9F%BA%E7%A1%80%E7%AF%87)
 
@@ -40,6 +40,8 @@
 #### [2.1.5 协议Codec](https://github.com/mosn/extensions/blob/master/go-plugin/doc/2.1bolt.md#215-%E5%8D%8F%E8%AE%AEcodec) 
 
 #### [2.1.6 启动bolt应用服务](https://github.com/mosn/extensions/blob/master/go-plugin/doc/2.1bolt.md#216-%E5%90%AF%E5%8A%A8bolt%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1) 
+
+
 
 ### [2.2 动手实现标准dubbo协议扩展](https://github.com/mosn/extensions/blob/master/go-plugin/doc/2.2dubbo.md)
 
@@ -95,7 +97,7 @@
 
 #### [2.6.2 标准bolt和spring cloud协议互转实践](https://github.com/mosn/extensions/blob/master/go-plugin/doc/2.6.2bolt2springcloud.md) 
 
-#### [2.6.3 传统xml和spring cloud协议互转实践](https://github.com/mosn/extensions/blob/master/go-plugin/doc/2.6.3xml2springcloud.md) 
+2.6.3 传统xml和spring cloud协议互转实践 @檀少
 
 2.7 mesh治理能力
 
